@@ -1,0 +1,5 @@
+You must run yarn with python2.7 in the path for `python`, otherwise errors will arise
+
+when changing the jsx code, you need to yarn run webpack
+
+the component is not showing, there is a front end JS error. Need to understand what's going on!
